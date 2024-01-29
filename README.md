@@ -1,1 +1,1 @@
-A simple CRUD application using the MEVN stack
+A simple CRUD application using the MEVN stack.
